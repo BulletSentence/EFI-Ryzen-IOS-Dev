@@ -19,6 +19,7 @@ It can also supports other versions, but was not tested.
 | ---------------- | ---------------------------------------------------|
 | CPU              | AMD Ryzen™ 5 2400G                                 |
 | MotherBoard      | GA-A320M-S2H                                       |
+| Ethernet         |  Realtek PCIe GbE Family Controller                |
 | Wifi             | USB IWA 3000                                       |
 | OS Disk          | SSD SATA A400 256gb                                |
 | Other Disk       | Seagate ST2000DM008                                |
